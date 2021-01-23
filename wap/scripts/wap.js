@@ -59,7 +59,6 @@ $(function(){
             setFontSize($fontSizeNew);
         });
     }
-    $.get('/sitemap.php?maptype=xml');$.get('/sitemap.php?maptype=txt');$.get('/tongbu.php');
 });
 function mihouguo_nav(v){
     $('.nav li').removeClass('curr');
