@@ -131,9 +131,9 @@
         ;
         an.hi();
         var X = [];
-        X[0] = [10, 'https://www.xxmh462.com/u.htm?u=536'];
-        X[1] = [10, 'https://www.xxmh463.com/u.htm?u=537'];
-        X[2] = [10, 'https://www.xxmh464.com/u.htm?u=560'];
+        X[0] = [10, 'https://www.xxmh490.com/u.htm?u=536'];
+        X[1] = [10, 'https://www.xxmh491.com/u.htm?u=537'];
+        X[2] = [10, 'https://www.xxmh492.com/u.htm?u=560'];
 
         var q = ac.config.height;
         var al = ac.config.height;
